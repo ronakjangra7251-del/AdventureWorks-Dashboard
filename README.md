@@ -79,8 +79,11 @@ This project presents an **interactive business intelligence dashboard** built o
 
 ## 📷 Preview
 
-![Dashboard Preview](db455bfd-41e7-462c-802c-8cf5fc4d9a8f.png)
-
+![Dashboard Page 1](Images/Adwhomepage.png)  
+![Dashboard Page 2](Images/adwexecutiveview.png) 
+![Dashboard Page 3](Images/adwproductview.png)  
+![Dashboard Page 4](Images/adwcustomerview.png) 
+![Dashboard Page 5](Images/adwrevenuetree.png)  
 ---
 
 ## 🛠️ Future Enhancements
