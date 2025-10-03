@@ -94,6 +94,3 @@ This project presents an **interactive business intelligence dashboard** built o
 
 ---
 
-## 👤 Author
-
-Developed as part of a **Business Intelligence & Data Analytics project** to showcase skills in **Power Query, Data Cleaning, and Dashboard Design**.
